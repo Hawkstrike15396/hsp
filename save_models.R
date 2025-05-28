@@ -1,3 +1,5 @@
+# optimization who????
+
 write_rds(fit_class_productivity, "cache/class_productivity.rds")
 
 write_rds(fit_mark_contentness, "cache/mark_contentness.rds")
