@@ -1,0 +1,46 @@
+Timestamp,Are you introverted or extroverted?,Are you intuitive or sensing?,Are you feeling or thinking?,Are you judging or perceiving?,What is your favorite subject in school? ,What is your least favorite subject in school?,Are you in the ALP/IB program?,"On average, how much time do you spend studying or doing homework every day outside of school? ",What do you plan on doing after completing high school?,I am productive when working during class time.,I am content with the marks I am receiving.,I often feel motivated to study. ,Studying is more spontaneous bursts of energy rather than a constant productive state. ,I am constantly pushing myself to get better and better marks.,I often feel pressured by myself to get better marks. 
+2025-05-28 10:57:30,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Science,English,"Yes, I am in the ALP/IB program.",0-2 hours,University,2,4,1,6,4,6
+2025-05-28 11:05:22,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Science,French,"No, I am not in the ALP/IB program and I am not in any other program.",0-2 hours,University,4,5,2,6,5,6
+2025-05-28 11:06:14,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Science,Gym,"No, I am not in the ALP/IB program and I am not in any other program.",0-2 hours,University,3,4,3,4,4,5
+2025-05-28 11:06:32,Introverted (I),Intuitive (N),Thinking (T),Perceiving (P),Math,Visual Arts,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,4,5,2,6,5
+2025-05-28 11:08:20,Introverted (I),Intuitive (N),Feeling (F),Judging (J),Math,Social Sciences,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,4,3,5,4,4
+2025-05-28 11:11:04,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Gym,Visual Arts,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,4,1,1,3,2
+2025-05-28 11:11:25,Introverted (I),Intuitive (N),Thinking (T),Perceiving (P),Music,English,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,1,3,6,6,5
+2025-05-28 11:12:41,Introverted (I),Intuitive (N),Thinking (T),Judging (J),Math,French,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,5,4,6,6,6
+2025-05-28 11:12:56,Extroverted (E),Sensing (S),Thinking (T),Judging (J),Science,French,"Yes, I am in the ALP/IB program.",6+ hours,University,4,6,6,2,6,3
+2025-05-28 11:12:59,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),Social Sciences,Gym,"Yes, I am in the ALP/IB program.",4-6 hours,University,3,3,2,5,4,6
+2025-05-28 11:14:28,Introverted (I),Intuitive (N),Thinking (T),Perceiving (P),Math,Gym,"Yes, I am in the ALP/IB program.",0-2 hours,University,1,5,1,5,3,5
+2025-05-28 11:14:55,Introverted (I),Intuitive (N),Thinking (T),Judging (J),Math,French,"Yes, I am in the ALP/IB program.",4-6 hours,Gap year,5,4,5,2,5,3
+2025-05-28 11:18:38,Extroverted (E),Intuitive (N),Thinking (T),Perceiving (P),Social Sciences,Science,"Yes, I am in the ALP/IB program.",0-2 hours,University,1,3,2,6,2,4
+2025-05-28 11:19:10,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),Visual Arts,Math,"Yes, I am in the ALP/IB program.",2-4 hours,University,5,4,3,3,6,6
+2025-05-28 11:23:57,Extroverted (E),Intuitive (N),Thinking (T),Judging (J),Science,Gym,"Yes, I am in the ALP/IB program.",4-6 hours,University,2,5,4,6,5,4
+2025-05-28 11:24:34,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),Social Sciences,Math,"No, I am not in the ALP/IB program but I am going to another program (ie. SHSM, co-op, etc.)",0-2 hours,University,5,5,2,5,2,5
+2025-05-28 11:26:26,Extroverted (E),Intuitive (N),Thinking (T),Perceiving (P),Gym,Math,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,3,3,5,4,6
+2025-05-28 11:28:46,Introverted (I),Sensing (S),Feeling (F),Judging (J),English,Science,"No, I am not in the ALP/IB program and I am not in any other program.",2-4 hours,University,1,4,3,6,5,4
+2025-05-28 11:29:32,Introverted (I),Intuitive (N),Feeling (F),Judging (J),French,Math,"Yes, I am in the ALP/IB program.",0-2 hours,University,5,4,2,5,6,6
+2025-05-28 11:29:42,Extroverted (E),Sensing (S),Thinking (T),Perceiving (P),Science,Math,"Yes, I am in the ALP/IB program.",0-2 hours,University,4,2,1,6,5,6
+2025-05-28 11:31:52,Introverted (I),Intuitive (N),Thinking (T),Perceiving (P),Music,French,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,1,3,6,5,5
+2025-05-28 11:33:23,Introverted (I),Sensing (S),Feeling (F),Judging (J),Science,English,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,5,2,4,5,2
+2025-05-28 11:34:12,Introverted (I),Intuitive (N),Thinking (T),Judging (J),English,Gym,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,4,3,1,5,5
+2025-05-28 11:38:34,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Visual Arts,Math,"Yes, I am in the ALP/IB program.",4-6 hours,College,4,5,4,3,2,3
+2025-05-28 11:39:01,Introverted (I),Intuitive (N),Feeling (F),Judging (J),Science,Social Sciences,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,4,3,5,5,4
+2025-05-28 11:39:33,Introverted (I),Sensing (S),Thinking (T),Judging (J),Math,History ,"Yes, I am in the ALP/IB program.",2-4 hours,University,5,4,2,5,4,5
+2025-05-28 11:45:06,Extroverted (E),Sensing (S),Feeling (F),Judging (J),Math,English,"Yes, I am in the ALP/IB program.",0-2 hours,University,4,2,4,4,4,6
+2025-05-28 11:45:41,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),Music,Math,"No, I am not in the ALP/IB program but I am going to another program (ie. SHSM, co-op, etc.)",0-2 hours,University,1,2,1,6,1,5
+2025-05-28 11:45:55,Introverted (I),Intuitive (N),Thinking (T),Judging (J),Science,Social Sciences,"Yes, I am in the ALP/IB program.",0-2 hours,University,4,5,2,4,1,2
+2025-05-28 11:46:47,Extroverted (E),Intuitive (N),Feeling (F),Judging (J),Science,Music,"Yes, I am in the ALP/IB program.",2-4 hours,University,5,5,4,3,6,4
+2025-05-28 11:49:06,Extroverted (E),Sensing (S),Thinking (T),Judging (J),Math,French,"Yes, I am in the ALP/IB program.",0-2 hours,University,4,2,2,5,3,5
+2025-05-28 11:49:36,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Math,Science,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,2,2,5,5,5
+2025-05-28 11:52:00,Extroverted (E),Intuitive (N),Thinking (T),Judging (J),Science,Drama,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,3,3,3,5,4
+2025-05-28 11:52:56,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),English,Math,"Yes, I am in the ALP/IB program.",4-6 hours,University,4,2,2,2,6,6
+2025-05-28 12:02:57,Extroverted (E),Intuitive (N),Feeling (F),Perceiving (P),Social Sciences,Math,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,3,3,4,4,4
+2025-05-28 12:10:23,Introverted (I),Intuitive (N),Feeling (F),Judging (J),Visual Arts,French,"No, I am not in the ALP/IB program but I am going to another program (ie. SHSM, co-op, etc.)",2-4 hours,University,5,5,5,5,4,4
+2025-05-28 12:16:28,Introverted (I),Intuitive (N),Thinking (T),Perceiving (P),Math,English,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,5,5,2,5,6
+2025-05-28 12:16:45,Introverted (I),Sensing (S),Feeling (F),Judging (J),Science,Social Sciences,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,2,2,5,6,6
+2025-05-28 12:18:02,Extroverted (E),Intuitive (N),Thinking (T),Judging (J),Math,French,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,3,2,6,5,4
+2025-05-28 12:27:00,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Science,Gym,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,2,4,6,5,6
+2025-05-28 12:32:22,Introverted (I),Sensing (S),Feeling (F),Judging (J),Visual Arts,Science,"Yes, I am in the ALP/IB program.",0-2 hours,University,2,5,2,4,4,5
+2025-05-28 12:48:30,Extroverted (E),Intuitive (N),Feeling (F),Judging (J),Science,Music,"Yes, I am in the ALP/IB program.",0-2 hours,University,5,4,4,4,5,6
+2025-05-28 12:50:52,Introverted (I),Sensing (S),Feeling (F),Perceiving (P),Science,Science,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,3,2,4,4,5
+2025-05-28 13:05:36,Extroverted (E),Sensing (S),Feeling (F),Perceiving (P),Music,Social Sciences,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,5,2,5,4,5
+2025-05-28 13:07:51,Introverted (I),Sensing (S),Thinking (T),Judging (J),Science,Drama,"Yes, I am in the ALP/IB program.",4-6 hours,University,5,4,5,3,6,6
