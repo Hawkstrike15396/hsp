@@ -1,3 +1,12 @@
+# This is quite positively revolting.
+
+# But anyways, all 4 MBTI types were used as it made the best model
+# However lowkey the only ones that had somewhat substantial effects are
+# Perceiving vs judging (quite consistently), and intuitive vs sensing
+# which is only for a couple of them, and when cut down to just 
+# n vs s and p vs j, n vs s had much lower effects than in the whole model
+# But again, all 4 types were used for a better model.
+
 fit_class_productivity <- brm(
   formula = class_productivity ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
   data = clean_data, 

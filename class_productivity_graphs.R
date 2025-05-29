@@ -2,9 +2,6 @@ library(patchwork)
 
 p1 <- clean_data |>
   select(intro_extro, 
-         intuit_sense, 
-         feel_think, 
-         judge_perceive, 
          class_productivity
          ) |>
   ggplot(aes(x = class_productivity)) +
@@ -14,12 +11,9 @@ p1 <- clean_data |>
          y = "Compte")
 
 p2 <- clean_data |>
-  select(intro_extro, 
-         intuit_sense, 
-         feel_think, 
-         judge_perceive, 
+  select(intuit_sense, 
          class_productivity
-  ) |>
+         ) |>
   ggplot(aes(x = class_productivity)) +
     geom_bar() +
     facet_wrap(~intuit_sense) +
@@ -27,12 +21,9 @@ p2 <- clean_data |>
          y = "Compte")
 
 p3 <- clean_data |>
-  select(intro_extro, 
-         intuit_sense, 
-         feel_think, 
-         judge_perceive, 
+  select(feel_think, 
          class_productivity
-  ) |>
+         ) |>
   ggplot(aes(x = class_productivity)) +
     geom_bar() +
     facet_wrap(~feel_think) +
@@ -40,12 +31,9 @@ p3 <- clean_data |>
          y = "Compte")
 
 p4 <- clean_data |>
-  select(intro_extro, 
-         intuit_sense, 
-         feel_think, 
-         judge_perceive, 
+  select(judge_perceive, 
          class_productivity
-  ) |>
+         ) |>
   ggplot(aes(x = class_productivity)) +
     geom_bar() +
     facet_wrap(~judge_perceive) +
