@@ -40,7 +40,11 @@ p4 <- clean_data |>
   labs(x = "Satisfaction des notes (de 1 à 6)", 
        y = "Compte")
 
-plot <- ((p1 | p2) / (p3 | p4)) + 
+combined_plot <- ((p1 | p2) / (p3 | p4)) + 
   plot_annotation(title = "Satisfaction des notes par type MBTI")
 
-print(plot)
+ggsave("mark_contentness_graph.png", 
+       plot = combined_plot, 
+       path = "cache", 
+       width = 5, 
+       height = 5)

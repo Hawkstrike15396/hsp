@@ -40,7 +40,12 @@ p4 <- clean_data |>
   labs(x = "Type d'étude (de 1 à 6)", 
        y = "Compte")
 # dunno why but you gotta run the last line again before it works :/
-((p1 | p2) / (p3 | p4)) + 
+combined_plot <- ((p1 | p2) / (p3 | p4)) + 
   plot_annotation(title = "Type d'étude par type MBTI")
 
-# I would ggsave this but idk the aspect ratio we going for lol
+
+ggsave("study_type_graph.png", 
+       plot = combined_plot, 
+       path = "cache", 
+       width = 5, 
+       height = 5)
