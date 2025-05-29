@@ -44,3 +44,12 @@ Timestamp,Are you introverted or extroverted?,Are you intuitive or sensing?,Are 
 2025-05-28 12:50:52,Introverted (I),Sensing (S),Feeling (F),Perceiving (P),Science,Science,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,3,2,4,4,5
 2025-05-28 13:05:36,Extroverted (E),Sensing (S),Feeling (F),Perceiving (P),Music,Social Sciences,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,5,2,5,4,5
 2025-05-28 13:07:51,Introverted (I),Sensing (S),Thinking (T),Judging (J),Science,Drama,"Yes, I am in the ALP/IB program.",4-6 hours,University,5,4,5,3,6,6
+2025-05-28 13:40:37,Extroverted (E),Intuitive (N),Thinking (T),Perceiving (P),Drama,Math,"No, I am not in the ALP/IB program but I am going to another program (ie. SHSM, co-op, etc.)",0-2 hours,University,1,5,1,5,1,4
+2025-05-28 13:59:50,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Math,French,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,2,3,4,5,6
+2025-05-28 14:00:02,Extroverted (E),Sensing (S),Feeling (F),Perceiving (P),Math,Science,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,3,4,4,6,2
+2025-05-28 14:30:03,Introverted (I),Sensing (S),Feeling (F),Perceiving (P),Math,English,"Yes, I am in the ALP/IB program.",0-2 hours,University,5,5,4,3,5,5
+2025-05-28 14:44:21,Extroverted (E),Intuitive (N),Thinking (T),Perceiving (P),n/a,Gym,"Yes, I am in the ALP/IB program.",2-4 hours,University,3,4,2,5,4,3
+2025-05-28 15:33:24,Introverted (I),Intuitive (N),Feeling (F),Perceiving (P),Social Sciences,Drama,"Yes, I am in the ALP/IB program.",2-4 hours,University,2,2,5,6,6,6
+2025-05-28 17:54:23,Introverted (I),Sensing (S),Thinking (T),Perceiving (P),Science,Math,"Yes, I am in the ALP/IB program.",2-4 hours,University,4,2,5,2,6,5
+2025-05-28 18:01:51,Extroverted (E),Sensing (S),Feeling (F),Perceiving (P),Gym,Science,"Yes, I am in the ALP/IB program.",0-2 hours,University,3,3,3,4,4,4
+2025-05-28 19:38:06,Introverted (I),Sensing (S),Feeling (F),Perceiving (P),Science,Music,"No, I am not in the ALP/IB program and I am not in any other program.",2-4 hours,University,3,1,3,6,4,5
