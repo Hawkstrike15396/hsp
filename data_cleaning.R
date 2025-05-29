@@ -1,6 +1,6 @@
 results <- read_csv("results.csv")
 
-clean <- results |>
+clean_data <- results |>
   select(
     intro_extro = contains("introverted"), 
     intuit_sense = contains("intuitive"), 
@@ -19,4 +19,4 @@ clean <- results |>
     self_pressure = contains("pressure")
   )
 
-write_rds(clean, "cache/clean_data.rds")
+write_rds(clean_data, "cache/clean_data.rds")
