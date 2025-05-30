@@ -40,5 +40,12 @@ p4 <- clean_data |>
     labs(x = "Productivité en classe (de 1 à 6)", 
          y = "Compte")
 
-(p1 | p2) / (p3 | p4) + 
+combined_plot <- (p1 | p2) / (p3 | p4) + 
   plot_annotation(title = "Productivité en classe par type MBTI")
+
+ggsave("class_productivity_graph.png", 
+       plot = combined_plot, 
+       path = "cache", 
+       width = 5, 
+       height = 5)
+
