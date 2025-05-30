@@ -1,14 +1,11 @@
 # This is quite positively revolting.
 
-# But anyways, all 4 MBTI types were used as it made the best model
-# However lowkey the only ones that had somewhat substantial effects are
-# Perceiving vs judging (quite consistently), and intuitive vs sensing
-# which is only for a couple of them, and when cut down to just 
-# n vs s and p vs j, n vs s had much lower effects than in the whole model
-# But again, all 4 types were used for a better model.
+# I tried several combinations, it seemed that judge_perceive had the best model
+# quite consistently, and even in the models with all 4 types it always
+# had the largest impact of the 4. Which is quite interesting. 
 
 fit_class_productivity <- brm(
-  formula = class_productivity ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = class_productivity ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
@@ -16,7 +13,7 @@ fit_class_productivity <- brm(
 )
 
 fit_mark_contentness <- brm(
-  formula = mark_contentness ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = mark_contentness ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
@@ -24,7 +21,7 @@ fit_mark_contentness <- brm(
 )
 
 fit_study_motivation <- brm(
-  formula = study_motivation ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = study_motivation ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
@@ -32,7 +29,7 @@ fit_study_motivation <- brm(
 )
 
 fit_study_type <- brm(
-  formula = study_type ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = study_type ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
@@ -40,7 +37,7 @@ fit_study_type <- brm(
 )
 
 fit_self_improvement <- brm(
-  formula = self_improvement ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = self_improvement ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
@@ -48,7 +45,7 @@ fit_self_improvement <- brm(
 )
 
 fit_self_pressure <- brm(
-  formula = self_pressure ~ intro_extro + intuit_sense + feel_think + judge_perceive, 
+  formula = self_pressure ~ judge_perceive, 
   data = clean_data, 
   family = cumulative(), 
   refresh = 0, 
