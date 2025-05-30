@@ -1,5 +1,3 @@
-library(patchwork)
-
 p1 <- clean_data |>
   select(intro_extro, 
          mark_contentness

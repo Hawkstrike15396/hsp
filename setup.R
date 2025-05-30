@@ -5,6 +5,7 @@ library(tidybayes)
 library(tidymodels)
 library(readr)
 library(gtsummary)
+library(patchwork)
 
 clean_data <- readRDS("cache/clean_data.rds")
 
